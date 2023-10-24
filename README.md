@@ -54,7 +54,7 @@ and then the only other thing you would have to adjust would be this function in
 	
 
 I would make a wrapper around it in your main code, and return the strings from the event listener so you don't have to worry about including SDK headers or anything.
-Finally, you can create an event listener like this;
+Finally, you can create an event listener in your main code like this;
 
 	
 	char* RegisterEvent(const char* EventType)
