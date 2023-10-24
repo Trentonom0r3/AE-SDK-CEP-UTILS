@@ -1,0 +1,75 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Compiling the PiPL
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.36.32534 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  Grabba_PiPL.r
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.36.32534 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  Grabba_PiPL.rrc
+  AEGP_SuiteHandler.cpp
+  MissingSuiteError.cpp
+  CSXUtils.cpp
+  Grabba_Strings.cpp
+  Grabba.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+  Generating Code...
+lzma.lib(common.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(common.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(lzma_encoder_presets.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(lzma_encoder_presets.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(stream_encoder.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(stream_encoder.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(stream_decoder.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(stream_decoder.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(filter_common.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(filter_common.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(stream_flags_encoder.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(stream_flags_encoder.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(block_header_encoder.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(block_header_encoder.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(block_util.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(block_util.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(index.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(index.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(block_encoder.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(block_encoder.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(index_encoder.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(index_encoder.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(check.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(check.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(filter_decoder.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(filter_decoder.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(stream_flags_decoder.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(stream_flags_decoder.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(stream_flags_common.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(stream_flags_common.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(block_header_decoder.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(block_header_decoder.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(index_hash.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(index_hash.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(block_decoder.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(block_decoder.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(crc32_fast.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(crc32_fast.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(vli_encoder.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(vli_encoder.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(vli_size.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(vli_size.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(filter_flags_encoder.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(filter_flags_encoder.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(filter_encoder.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(filter_encoder.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(crc64_fast.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(crc64_fast.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(sha256.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(sha256.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(lzma_decoder.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(lzma_decoder.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(lzma2_decoder.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(lzma2_decoder.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(x86.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(x86.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(powerpc.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(powerpc.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(ia64.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(ia64.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(arm.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(arm.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(armthumb.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(armthumb.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(arm64.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(arm64.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(sparc.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(sparc.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(simple_decoder.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(simple_decoder.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(delta_common.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(delta_common.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(delta_decoder.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(delta_decoder.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(vli_decoder.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(vli_decoder.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(filter_flags_decoder.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(filter_flags_decoder.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(crc32_table.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(crc32_table.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(lzma_encoder.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(lzma_encoder.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(lzma2_encoder.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(lzma2_encoder.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(simple_encoder.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(simple_encoder.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(delta_encoder.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(delta_encoder.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(crc64_table.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(crc64_table.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(lz_decoder.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(lz_decoder.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(simple_coder.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(simple_coder.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(lz_encoder.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(lz_encoder.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(lzma_encoder_optimum_fast.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(lzma_encoder_optimum_fast.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(lzma_encoder_optimum_normal.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(lzma_encoder_optimum_normal.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(price_table.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(price_table.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(fastpos_table.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(fastpos_table.c.obj)' or at ''; linking object as if no debug info
+lzma.lib(lz_encoder_mf.c.obj) : warning LNK4099: PDB '' was not found with 'lzma.lib(lz_encoder_mf.c.obj)' or at ''; linking object as if no debug info
+     Creating library x64\Debug\/Grabba.lib and object x64\Debug\/Grabba.exp
+  Grabba.vcxproj -> C:\Program Files\Adobe\Adobe After Effects 2023\Support Files\Plug-ins\Effects\Grabba.aex

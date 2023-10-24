@@ -1,0 +1,6 @@
+﻿  HelloWorld.cpp
+  AEGP_SuiteHandler.cpp
+  MissingSuiteError.cpp
+  Generating Code...
+     Creating library C:\Users\tjerf\source\repos\HelloWorld\x64\Debug\dll\HelloWorld.lib and object C:\Users\tjerf\source\repos\HelloWorld\x64\Debug\dll\HelloWorld.exp
+  HelloWorld.vcxproj -> C:\Users\tjerf\source\repos\HelloWorld\x64\Debug\dll\HelloWorld.dll
