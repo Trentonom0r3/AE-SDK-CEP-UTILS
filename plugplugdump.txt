@@ -1,0 +1,56 @@
+Dump of file PlugPlug.dll
+
+File Type: DLL
+
+  Section contains the following exports for PlugPlug.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+          41 number of functions
+          41 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000CB770 AddEventListener
+          2    1 000CB780 DispatchEvent
+          3    2 000CB790 LoadExtension
+          4    3 000CB7A0 LoadExtensionEx
+          5    4 000C5FF0 PlugPlugAddEventListener
+          6    5 000C6240 PlugPlugCollectRecentLogs
+          7    6 000C63C0 PlugPlugDispatchEvent
+          8    7 000C6580 PlugPlugDumpInstallationInfo
+          9    8 000C6620 PlugPlugExtensionCall
+         10    9 000C6630 PlugPlugFlyoutMenuClosed
+         11    A 000C6690 PlugPlugFlyoutMenuOpened
+         12    B 000C66F0 PlugPlugGetJobs
+         13    C 000C6790 PlugPlugGetVersion
+         14    D 000C67F0 PlugPlugIMSAttemptSSOJumpWorkflows
+         15    E 000C6A20 PlugPlugIMSConnect
+         16    F 000C6B40 PlugPlugIMSConnectWithEndpoint
+         17   10 000C6C90 PlugPlugIMSDisconnect
+         18   11 000C6DB0 PlugPlugIMSFetchAccessToken
+         19   12 000C6F30 PlugPlugIMSFetchAccessTokenWithStatus
+         20   13 000C70B0 PlugPlugIMSFetchAccounts
+         21   14 000C71E0 PlugPlugIMSFetchContinueToken
+         22   15 000C7380 PlugPlugIMSFetchUserProfileData
+         23   16 000C74B0 PlugPlugIMSLogoutUser
+         24   17 000C75F0 PlugPlugIMSSetProxyCredentials
+         25   18 000C7720 PlugPlugLoadExtension
+         26   19 000C7A80 PlugPlugLoadExtensionEx
+         27   1A 000C7DF0 PlugPlugMenuCall
+         28   1B 000C83D0 PlugPlugNotifyStateChange
+         29   1C 000C8D80 PlugPlugPurgeJobs
+         30   1D 000C8E20 PlugPlugRemoveEventListener
+         31   1E 000C8FE0 PlugPlugRequestUrl
+         32   1F 000C6620 PlugPlugSetFlashPanelList
+         33   20 000C8FF0 PlugPlugSetHtmlPanelList
+         34   21 000C94D0 PlugPlugSetNglProfileData
+         35   22 000C9890 PlugPlugSetScaleFactor
+         36   23 000C9960 PlugPlugSetup
+         37   24 000C9BC0 PlugPlugShowAAM
+         38   25 000C9D30 PlugPlugTerminate
+         39   26 000CA020 PlugPlugUnloadExtension
+         40   27 000CB7B0 RemoveEventListener
+         41   28 000CB7C0 UnloadExtension
