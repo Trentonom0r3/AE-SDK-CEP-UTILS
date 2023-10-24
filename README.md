@@ -52,11 +52,12 @@ void MyEventListener(const Event* const event, void* const context) {
     }
 }
 
+'''
 
 I would make a wrapper around it in your main code, and return the strings from the event listener so you don't have to worry about including SDK headers or anything.
 Finally, you can create an event listener like this;
 
-```
+'''
 char* RegisterEvent(const char* EventType)
 {
 	std::string path;
