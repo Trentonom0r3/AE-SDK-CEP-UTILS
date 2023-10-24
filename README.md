@@ -30,7 +30,7 @@ https://github.com/Trentonom0r3/AE-SDK-CEP-UTILS/blob/main/AEGP/Grabba/CSXUtils.
 
 and then the only other thing you would have to adjust would be this function in CSXUtils.cpp, basically just tell it what you want to listen for and what you want it to do when you hear it. It would also be a really good idea to add a condition to ignore whatever you're sending from the plugin itself, otherwise it'll get stuck in an infinite loop.
 
-	```
+	
 	void MyEventListener(const Event* const event, void* const context) {
 	    std::cout << "Received event: " << event->type << std::endl;
 	
@@ -51,12 +51,12 @@ and then the only other thing you would have to adjust would be this function in
 	
 	    }
 	}
-	"""
+	
 
 I would make a wrapper around it in your main code, and return the strings from the event listener so you don't have to worry about including SDK headers or anything.
 Finally, you can create an event listener like this;
 
-	```
+	
 	char* RegisterEvent(const char* EventType)
 	{
 		std::string path;
@@ -73,4 +73,4 @@ Finally, you can create an event listener like this;
 			return "Error";
 		}
 	}
-	```
+	
